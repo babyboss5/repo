@@ -4,7 +4,8 @@ hello banana
 hello banana
 hello banana
 people 1 edit by people 1
-people 2 edit by people 2
+people 2 edit by peop
 people 3 edit by people 3
+i edit something
 
 test commit
